@@ -1,0 +1,4 @@
+# Auto Configure
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+top.cantos.autoconfigure.swagger.Swagger2AutoConfiguration,\
+top.cantos.autoconfigure.redis.cache.RedisCacheAutoConfiguration
